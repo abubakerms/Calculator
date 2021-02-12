@@ -1,0 +1,28 @@
+.darkTheme {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    background-color: #000;
+}
+
+.lightTheme {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.calc-wrapper {
+    width: 80%;
+}
+
+;
+
+.row {
+    display: flex;
+    width: 100%;
+}

@@ -1,0 +1,10 @@
+.button {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0f0f0;
+    font-weight: lighter;
+    height: 4em;
+    outline: 1px solid black;
+}
